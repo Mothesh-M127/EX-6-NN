@@ -70,9 +70,11 @@ print(classification_rep)
 ```
 
 ### Output:
-![image](https://github.com/Subramaniya-pillai/EX-6-NN/assets/94166127/4d4914b9-23a6-49e0-9cd6-f1f869fc8ac9)
+![2](https://github.com/Mothesh-M127/EX-6-NN/assets/94170892/be63b4f3-d422-4636-a6c2-179aff6920bb)
 
-![image](https://github.com/Subramaniya-pillai/EX-6-NN/assets/94166127/a5d6a6cd-4f91-4543-8b4d-351eb3fc4574)
+
+![22](https://github.com/Mothesh-M127/EX-6-NN/assets/94170892/6200067c-5ba2-4bcc-9742-75617076b412)
+
 
 
 <H3>Results:</H3>
